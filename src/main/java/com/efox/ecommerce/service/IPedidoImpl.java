@@ -16,8 +16,8 @@ import javax.annotation.Resource;
 import org.springframework.stereotype.Service;
 
 import com.efox.ecommerce.dto.PedidoDto;
-import com.efox.ecommerce.dto.PedidoDto.Buyer;
-import com.efox.ecommerce.dto.PedidoDto.Items;
+import com.efox.ecommerce.dto.Buyer;
+import com.efox.ecommerce.dto.Items;
 import com.efox.ecommerce.model.Articulo;
 import com.efox.ecommerce.model.ArticuloPedido;
 import com.efox.ecommerce.model.Pedido;
